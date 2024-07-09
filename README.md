@@ -2,15 +2,15 @@
 
 ## Indice
 
-01. Hello World
-02. Variables
-03. Maps
-04. List, Maps and Iterables
-05. Functions
-06. Classes
-07. Constructors and Names
-08. Get and Set
-09. Abstract Class
+1. Hello World
+2. Variables
+3. Maps
+4. List, Maps and Iterables
+5. Functions
+6. Classes
+7. Constructors and Names
+8. Get and Set
+9. Abstract Class
 10. Mixins
 11. Futures
 12. Async Await
